@@ -5,7 +5,7 @@ vmod_parsepost
 
 this module is legacy.
 
-new module is parsereq.
+new module is vmod_parsereq.
 
 see: https://github.com/xcir/libvmod-parsereq
 
