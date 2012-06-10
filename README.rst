@@ -7,7 +7,7 @@ this module is legacy.
 
 new module is vmod_parsereq.
 
-see: https://github.com/xcir/libvmod-parsereq
+see: https://github.com/xcir/libvmod-parsereq 
 
 
 -------------------------------
